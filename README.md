@@ -29,6 +29,9 @@ The program is designed to detect *any* attempt to forcibly close it.
 
 The only way to save your files is to play the game and exit gracefully via the menu.
 
+<img width="1085" height="358" alt="image" src="https://github.com/user-attachments/assets/c9bbcb68-b48b-4e8a-be59-ca26d7b1bb54" />
+
+
 ---
 
 ## ⚙️ Technical Architecture
